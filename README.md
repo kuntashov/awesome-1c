@@ -47,6 +47,7 @@
 * [One DT Tools](https://github.com/Infactum/onec_dtools) - python библоитека для работы с бинарными файлами
 * [Консоль запросов + БИТ:Финанс](https://github.com/CryptedSky/QueryConsolePBF) - работа с источниками данных БИТ:Финанс
 * [V8Formats](https://github.com/YPermitin/V8Formats) - Библиотеки на .NET для работы с форматами файлов платформы 1С:Предприятие 8.x
+* [metadataSorting][https://github.com/fr13Dev/metadataSorting] - Утилита для сортировки метаданных 1С
 
 
 ## DevOps
